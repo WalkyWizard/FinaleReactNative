@@ -37,6 +37,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "c1d43109-6734-4be1-b15b-540c7ff44f4a"
+      }
+    },
+    "owner": "walkywizards-team"
   }
 }
